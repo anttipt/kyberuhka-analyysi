@@ -7,8 +7,9 @@ Skripti, joka kerää ja analysoi uhkatietoa eri lähteistä (esim. VirusTotal, 
 
 <img src="kuvat/kontit.png" alt="Docker desktop ja kontit" title="Docker desktop ja kontit">
 
-<img src="kuvat/kontti.png" alt="Kontin luonti" title="Kontin luonti">
+<img src="kuvat/kontti.png" alt="Lista konteista" title="Lista konteista">
 
-<img src="kuvat/konttienkaynnistyskomento.png" alt="Lista konteista" title="Lista konteista">
+
+
 
 
