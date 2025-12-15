@@ -8,7 +8,7 @@ Vie hiiri kuvan päälle saadaksesi lisätietoja.
 
 <img src="kuvat/kontit.png" alt="Docker desktop ja kontit" title="Docker desktop ja kontit">
 
-<img src="kuvat/kontti.png" alt="kontti "influxdb" tehty" title="kontti "influxdb" tehty">
+<img src="kuvat/kontti.png" alt="kontti influxdb tehty" title="kontti influxdb tehty">
 
 <img src="kuvat/konttienkaynnistyskomento.png" alt="Konttien käynnistyskomento tehty" title="konttien käynnistyskomento">
 
