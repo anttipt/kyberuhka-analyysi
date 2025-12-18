@@ -12,17 +12,17 @@ mahdollistaa datan suodattamisen, analysoinnin ja visualisoinnin esimerkiksi Gra
 
 ## 📦 Projektin sisältö
 ```
-- docker-compose.yml
+docker-compose.yml
 ```
 Käynnistää InfluxDB:n ja Grafanan samassa verkossa.
 
 ```
-- test_measurement.py
+test_measurement.py
 ```
 Pieni Python-skripti, joka puskee testidataa InfluxDB:hen.
 
 ```
-- README.md
+README.md
 ```
 Dokumentaatio projektin käytöstä.
 
