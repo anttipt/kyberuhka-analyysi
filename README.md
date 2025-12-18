@@ -28,10 +28,11 @@ Dokumentaatio projektin käytöstä.
 
 ## 🚀 Käynnistys
 
-- Asenna Docker Desktop
+
 Lataa ja asenna Docker Desktop.
 
-- Käynnistä palvelut
+- Käynnistä palvelut: 
+
 Siirry projektikansioon ja aja:
 ```
 docker-compose up -d
