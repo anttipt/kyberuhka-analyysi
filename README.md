@@ -11,14 +11,19 @@ se käyttää bucketteja datan säilytykseen, measurement‑nimiä mittauksille,
 mahdollistaa datan suodattamisen, analysoinnin ja visualisoinnin esimerkiksi Grafanan kautta.
 
 ## 📦 Projektin sisältö
-
+```
 - docker-compose.yml
+```
 Käynnistää InfluxDB:n ja Grafanan samassa verkossa.
 
+```
 - test_measurement.py
+```
 Pieni Python-skripti, joka puskee testidataa InfluxDB:hen.
 
+```
 - README.md
+```
 Dokumentaatio projektin käytöstä.
 
 ## 🚀 Käynnistys
@@ -28,11 +33,15 @@ Lataa ja asenna Docker Desktop.
 
 - Käynnistä palvelut
 Siirry projektikansioon ja aja:
-```docker-compose up -d```
+```
+docker-compose up -d
+```
 
 - Tarkista kontit
 
-```docker ps```
+```
+docker ps
+```
 
 - Näet influxdb ja grafana kontit käynnissä.
 
