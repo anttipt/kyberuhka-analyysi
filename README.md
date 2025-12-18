@@ -1,7 +1,14 @@
 ## Kyberuhka-analyysi Stack (InfluxDB + Grafana + Docker)
 
 Tämä projekti demonstroi, miten InfluxDB ja Grafana voidaan käynnistää Dockerin avulla, verkottaa yhteen ja visualisoida dataa. 
-Projekti sisältää myös testiskriptin, jolla voidaan puskea datapisteitä InfluxDB:hen
+Projekti sisältää myös testiskriptin, jolla voidaan puskea datapisteitä InfluxDB:hen.
+  
+Grafana-dashboard on näkymä, jossa eri datalähteistä haettu tieto esitetään visuaalisesti paneeleina, kuten kaavioina, taulukoina ja mittareina. 
+Se on ikään kuin ohjauspaneeli, josta näet järjestelmän tilan yhdellä silmäyksellä.
+
+InfluxDB on aikajonotietokanta, joka tallentaa ja käsittelee aikaleimattua dataa (esim. sensorit, lokit, mittarit) nopeasti ja tehokkaasti; 
+se käyttää bucketteja datan säilytykseen, measurement‑nimiä mittauksille, field‑arvoja lukemille ja tageja metatiedoille, ja sen Flux‑kyselykieli 
+mahdollistaa datan suodattamisen, analysoinnin ja visualisoinnin esimerkiksi Grafanan kautta.
 
 ## 📦 Projektin sisältö
 
@@ -40,11 +47,9 @@ JATKOA TULOSSA
 
 
 
-Skripti, joka kerää ja analysoi uhkatietoa eri lähteistä (esim. VirusTotal, Shodan) ja visualisoi uhkatiedot **Grafana**-dashboardilla. 
-Vie hiiri kuvan päälle saadaksesi lisätietoja.
 
-Grafana-dashboard on näkymä, jossa eri datalähteistä haettu tieto esitetään visuaalisesti paneeleina, kuten kaavioina, taulukoina ja mittareina. 
-Se on ikään kuin ohjauspaneeli, josta näet järjestelmän tilan yhdellä silmäyksellä.
+
+
 
 <img src="kuvat/grafana.png" alt="Grafana käyttöliittymä" title="Grafana käyttöliittymä"> 
 
