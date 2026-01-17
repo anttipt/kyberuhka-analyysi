@@ -47,7 +47,7 @@ docker ps
 - Näet influxdb ja grafana kontit käynnissä.
 
 
-JATKOA TULOSSA
+JATKOA TULOSSA..........
 
 
 
