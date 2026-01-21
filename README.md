@@ -46,20 +46,9 @@ docker ps
 
 - Näet influxdb ja grafana kontit käynnissä.
 
+## Kuvakaappaukset
 
-JATKOA TULOSSA..........
-
-
-
-
-
-
-
-
-
-
-
-
+Vie kursori kuvan päälle saadaksesi lisätietoja.
 
 <img src="kuvat/grafana.png" alt="Grafana käyttöliittymä" title="Grafana käyttöliittymä"> 
 
@@ -73,5 +62,5 @@ JATKOA TULOSSA..........
 
 
 
-
+JATKOA TULOSSA..........
 
