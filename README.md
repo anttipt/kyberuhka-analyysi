@@ -58,7 +58,16 @@ Vie kursori kuvan päälle saadaksesi lisätietoja.
 
 <img src="kuvat/kontti.png" alt="kontti influxdb tehty" title="kontti influxdb tehty">
 
-<img src="kuvat/konttienkaynnistyskomento.png" alt="Konttien käynnistyskomento tehty" title="konttien käynnistyskomento">
+<img src="kuvat/konttienkaynnistyskomento.png" alt="Konttien käynnistyskomento tehty" title="konttien käynnistyskomento"> 
+
+<img src="kuvat/datapisteet_testi_grafana.png" alt="Lähetetty data näkyy datapisteinä Grafanassa" title="Lähetetty data näkyy datapisteinä Grafanassa"> 
+
+<img src="kuvat/testimittaus_influxdb.png" alt="Testimittaus InfluxDB:ssä" title="Testimittaus InfluxDB:ssä"> 
+
+<img src="kuvat/testimittaus_python.png" alt="Python-koodi joka luo ja lähettää datapisteet InfluxDB:hen" title="Python-koodi joka luo ja lähettää datapisteet InfluxDB:hen"> 
+
+
+
 
 
 
